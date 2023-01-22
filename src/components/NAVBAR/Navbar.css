@@ -1,0 +1,56 @@
+.navbar{
+    background-color: blue;
+    height: 50px;
+}
+.ngn{
+    color: aliceblue;
+    font-size: 14px;
+    font-weight: bold;
+    margin-top: 0px;
+    margin-right: 50px;
+}
+.navcontainer{
+    display: flex;
+    align-items: center;
+
+    padding-top: 9px;
+
+}
+.logo{
+    flex: 1;
+    color: white;
+    font-size: 12px;
+    font-weight: bolder;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left: 8px;
+}
+.items{
+    
+ flex: 1;
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+    
+}
+.list{
+   background-color: transparent;
+   color: white;
+   font-weight: bold;
+   padding-top: 4px;
+   padding-left: 4px;
+   padding-right: 4px;
+   padding-bottom: 6px;
+
+}
+
+button{
+    background-color: antiquewhite;
+    height: 3vh;
+    padding: 6px 2px 8px 2px;
+    margin-right: 5px;
+    padding-top: 4px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-bottom: 6px;
+color: blue;
+}
